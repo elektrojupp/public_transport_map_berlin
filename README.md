@@ -38,6 +38,7 @@ The PCB has been designed to be minimal in size to reduce manufacturing cost. It
 
 ## Pictures
 
-<img src="pictures/berlin_bahn_v1.png"/>
-<img src="pictures/berlin_bahn_v2.png"/>
+![Berlin Bahn v1](pictures/berlin_bahn_v1.png)
+![Berlin Bahn v2](pictures/berlin_bahn_v2.png)
+
 
