@@ -1,0 +1,9 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "4492")(type "KiCad")(uri "${KIPRJMOD}/lib/4492/KiCADv6/footprints.pretty")(options "")(descr ""))
+  (lib (name "bb")(type "KiCad")(uri "${KIPRJMOD}/lib/bb/footprint.pretty")(options "")(descr ""))
+  (lib (name "5849")(type "KiCad")(uri "${KIPRJMOD}/lib/LIB_5849/5849/KiCad/footprint.pretty")(options "")(descr ""))
+  (lib (name "SK6805-EC10-000")(type "KiCad")(uri "${KIPRJMOD}/lib/SK6805-EC10-000/SK6805-EC10-000.pretty")(options "")(descr ""))
+  (lib (name "ESP32_DEVKITC_32UE")(type "KiCad")(uri "${KIPRJMOD}/lib/ESP32_DEVKITC_32UE/footprint.pretty")(options "")(descr ""))
+  (lib (name "ESP32-WROVER-E-N8R8")(type "KiCad")(uri "${KIPRJMOD}/lib/LIB_ESP32-WROVER-E-N8R8/ESP32-WROVER-E-N8R8/KiCad/footprint.pretty")(options "")(descr ""))
+)

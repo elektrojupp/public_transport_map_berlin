@@ -1,0 +1,16 @@
+/hw/berlin_bahn-backups/
+/hw/~berlin_bahn.kicad_sch.lck
+/hw/~berlin_bahn.kicad_pcb.lck
+/hw/_autosave-berlin_bahn.kicad_pcb
+/hw/~_autosave-berlin_bahn.kicad_pcb.lck
+/hw/fp-info-cache
+/hw/berlin_bahn.kicad_prl
+/hw/berlin_bahn.step
+/hw/berlin_bahn.kicad_sch-bak
+/hw/gitgit auto_saved_files
+/hw/py/.~lock.linien.csv
+/hw/py/.~lock*
+/esp_project/managed_components
+*.FCBak
+.venv
+.vscode

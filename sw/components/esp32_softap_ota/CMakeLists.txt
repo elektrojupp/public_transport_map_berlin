@@ -1,0 +1,10 @@
+idf_component_register(
+	SRCS 
+		"esp32_softap_ota.c"
+	INCLUDE_DIRS 
+		"."
+	REQUIRES 
+		"esp_http_server"
+		"app_update" 
+		"esp_https_ota"
+)
