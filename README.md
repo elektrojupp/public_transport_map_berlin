@@ -37,8 +37,12 @@ The HTTP OTA server is not secure and allows anyone to upload any firmware. It c
 The PCB has been designed to be minimal in size to reduce manufacturing cost. It can be scaled using the KiCad IPC API. This requires KiCad 9 and above. The IPC API has some quirks, but first it needs to be enabled in the KiCad settings.
 
 ## Pictures
+Showing the actual version of the PCB:  
+
+![Berlin Bahn v2](pictures/berlin_bahn_v2.jpg)
+V1 manufactured  
 
 ![Berlin Bahn v1](pictures/berlin_bahn_v1.jpg)
-![Berlin Bahn v2](pictures/berlin_bahn_v2.jpg)
+
 
 
